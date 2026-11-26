@@ -87,8 +87,8 @@ gcc main.c -o find_the_key_in_maze -lncurses
 
 ## 📅 Pembagian Tugas & Progres
 
-Progres 1 (Rabu, 25 November 2026): 
-Pembuatan repositori GitHub, draf README.md, kerangka kode awal ncurses, peta dasar, flowchart dan pengumpulan dokumen progres.
+Progres 1 (Kamis, 26 November 2026): 
+Pembuatan repositori GitHub, draf README.md, kerangka kode awal ncurses, peta dasar, flowchart dan pengumpulan dokumen progres pertama.
 
 ---
 
